@@ -1,0 +1,15 @@
+{
+  "ver":1.0,
+  "se":{
+    "4":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/KACHI1.wav"},
+    "5":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/KACHI2.wav"},
+    "6":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/DA.wav"},
+    "8":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/NAKI_WEB.wav"},
+    "9":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/NUKI.wav"},
+    "10":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/AGARI.wav"},
+    "11":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/YAKU.wav"},
+    "37":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/KIRA.wav"},
+    "38":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/SHA.wav"},
+    "39":{"url":"https://raw.githubusercontent.com/Ticcy0807/TenhouSE/main/REACH.wav"}
+  }
+}
